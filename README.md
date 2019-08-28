@@ -1,2 +1,2 @@
 # Landing-Page
-Chỉ sử dụng html css
+Sử dụng Scss
